@@ -1,6 +1,6 @@
 # quiz_prep
 
-Create a Fork of this repository. The HTML/CSS files you will work on are in this folder.
+Create a Fork of this repository. The HTML/CSS files you will work on are in the gh-pages directory of this repository.
 
 # HTML/CSS Quiz Preparation Run.
 * Text and Images are provided in the story1.html file (URL for photos are above each caption).
