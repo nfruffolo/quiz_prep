@@ -1,0 +1,11 @@
+figure {
+width: 400px;
+height: 360px;
+margin: auto;
+padding: 0px 18px 18px 0px;
+float: left;
+font-size: 12px
+}
+a {
+text-decoration:none;
+}
